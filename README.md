@@ -9,6 +9,10 @@ usen estos archivos con fines educativos de la materia, sean responsables y apre
 
 En la pestaña del repositorio dele click a "Download" y le dan a la segunda opción
 
+## Programa Pseint
+
+[Click Aqui](http://pseint.sourceforge.net) para descargarlo, es **gratis**
+
 ## Seguna Opcion Drive
 
 Para acceder a los archivos [Click Aqui](https://drive.google.com/drive/folders/1sol-_sKNpaUbgG3Ea6A_iX3W2sHWqtRQ?usp=sharing) ☁
